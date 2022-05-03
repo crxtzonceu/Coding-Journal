@@ -11,7 +11,8 @@
   #### What i learned/review
   
   <details>
-    <summary>HTML notes</summary>
+    <summary>HTML</summary>
+    ### HTML notes
     * ```<DOCTYPE html>```  = what version of HTML is being used.
     * ```<html></html>```   = root element of the document.
     * ```<head></head>```   = the info's or data that is about the document and is not seen by the user's.
@@ -26,7 +27,8 @@
   </details
   
   <details>
-    <summary>CSS notes</summary>
+    <summary>CSS</summary>
+    ### CSS notes
     * Properties = what we want to change. Ex: **color, font-size or weight**
     * Values     = what we want that property to set to.  Ex: ```font-size: 20px```
   </details>
