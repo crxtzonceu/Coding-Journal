@@ -22,4 +22,9 @@
   ### Attributes
   * href
   * src  
+  
+  ### CSS
+  ### CSS notes
+  * Properties = what we want to change. **ex: color, font-size or weight**
+  * Values     = what we want that property to set to.  ex: ```font-size: 20px```
 </details>
