@@ -23,10 +23,21 @@
   ### Attributes
   * href
   * src
+  
+  ## Keywords
+  - element
+  - tag
+  - syntax
 
 
   ### CSS notes
   * Properties = what we want to change. Ex: **color, font-size or weight**
   * Values     = what we want that property to set to.  Ex: ```font-size: 20px```
+  
+  ## Keywords
+  - syntax
+  - inline
+  - external
+  - internal
     
 </details>
