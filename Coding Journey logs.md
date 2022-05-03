@@ -36,6 +36,12 @@
   * Values        = what we want that property to set to.  Ex: ```font-size: 20px```
   * ``` /* */```  = This is the CSS Comment
   
+  ### Property
+  - color
+  - font-size
+  - background-color
+  - text-align
+  
   #### Keywords
   - syntax = ```propery: value;```
   - inline
