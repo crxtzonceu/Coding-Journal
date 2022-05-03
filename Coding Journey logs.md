@@ -27,7 +27,7 @@
   #### Keywords
   - element
   - tag
-  - syntax
+  - syntax = ```<opening tag attribute="value"></closing tag>```
 
 
   ## CSS notes
@@ -35,7 +35,7 @@
   * Values     = what we want that property to set to.  Ex: ```font-size: 20px```
   
   #### Keywords
-  - syntax
+  - syntax = ```propery: value;```
   - inline
   - external
   - internal
