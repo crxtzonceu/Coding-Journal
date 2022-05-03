@@ -13,7 +13,7 @@
   <details>
     <summary>HTML</summary>
     ### HTML notes
-    * ```<DOCTYPE html>```  = what version of HTML is being used.
+    ** ```<DOCTYPE html>```  = what version of HTML is being used.
     * ```<html></html>```   = root element of the document.
     * ```<head></head>```   = the info's or data that is about the document and is not seen by the user's.
     * ```<body></body>```   = contains all the documents data that is seen by the user.
