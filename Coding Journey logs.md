@@ -9,10 +9,10 @@
 
   #### What i learned/review
   ### HTML
-  * ```html<DOCTYPE html>```  = what version of HTML is being used.
-  * ```html<html></html>```   = root element of the document.
-  * ```html<head></head>```   = the info's or data that is about the document and is not seen by the user's.
-  * ```html<body></body>```   = contains all the documents data that is seen by the user.
-  * ```html<title></title>``` = the title or name that is shown on the webpage tab bar.
-  * ```html<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```  = headings of the html.
+  * ```<DOCTYPE html>```  = what version of HTML is being used.
+  * ```<html></html>```   = root element of the document.
+  * ```<head></head>```   = the info's or data that is about the document and is not seen by the user's.
+  * ```<body></body>```   = contains all the documents data that is seen by the user.
+  * ```<title></title>``` = the title or name that is shown on the webpage tab bar.
+  * ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```  = headings of the html.
 </details>
