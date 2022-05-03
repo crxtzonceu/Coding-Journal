@@ -10,18 +10,19 @@
 
   #### What i learned/review
   
-  ### HTML notes
-  * ```<DOCTYPE html>```  = what version of HTML is being used.
-  * ```<html></html>```   = root element of the document.
-  * ```<head></head>```   = the info's or data that is about the document and is not seen by the user's.
-  * ```<body></body>```   = contains all the documents data that is seen by the user.
-  * ```<title></title>``` = the title or name that is shown on the webpage tab bar.
-  * ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```  = headings of the html.
-  * ```<a></a>```         = links to things on current page or outside the document
-  
-  ### Attributes
-  * href
-  * src  
+  <details>
+    <summary>HTML notes</summary>
+    * ```<DOCTYPE html>```  = what version of HTML is being used.
+    * ```<html></html>```   = root element of the document.
+    * ```<head></head>```   = the info's or data that is about the document and is not seen by the user's.
+    * ```<body></body>```   = contains all the documents data that is seen by the user.
+    * ```<title></title>``` = the title or name that is shown on the webpage tab bar.
+    * ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```  = headings of the html.
+    * ```<a></a>```         = links to things on current page or outside the document
+
+    ### Attributes
+    * href
+    * src  
   
   ### CSS notes
   * Properties = what we want to change. Ex: **color, font-size or weight**
