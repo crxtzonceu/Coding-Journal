@@ -20,6 +20,10 @@
   - ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```  = headings of the html.
   - ```<a></a>```         = links to things on current page or outside the document
   - ```<!-- -->```        = This is the HTML Comment
+  - ```<ul></ul>```       = Unordered List
+  - ```<ol></ol>```       = Ordered List
+  - ```<li></li>```       = List Items
+  
 
   ### Attributes
   * href
