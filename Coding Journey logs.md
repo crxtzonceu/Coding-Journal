@@ -23,6 +23,9 @@
   - ```<ul></ul>```       = Unordered List
   - ```<ol></ol>```       = Ordered List
   - ```<li></li>```       = List Items
+  - ```<em></em>```       = emphasis on the text
+  - ```<strong></strong>``` = bold the text
+  - ```<img>              = image
   
 
   ### Attributes
