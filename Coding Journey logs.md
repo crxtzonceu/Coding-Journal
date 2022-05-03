@@ -8,10 +8,10 @@
   - I still remember a lot of things but i feel i do really need to review all of those things from the start and im willing to learn web 
   development again even though i still don't know what programming field/career should i focus on.
 
-  #### What i learned/review
   
+  ### What i learned/review
 
-  ### HTML notes
+  ## HTML notes
   - ```<DOCTYPE html>```  = what version of HTML is being used.
   - ```<html></html>```   = root element of the document.
   - ```<head></head>```   = the info's or data that is about the document and is not seen by the user's.
@@ -30,7 +30,7 @@
   - syntax
 
 
-  ### CSS notes
+  ## CSS notes
   * Properties = what we want to change. Ex: **color, font-size or weight**
   * Values     = what we want that property to set to.  Ex: ```font-size: 20px```
   
