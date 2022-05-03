@@ -19,6 +19,6 @@
   * ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>```  = headings of the html.
   * ```<a></a>```         = links to things on current page or outside the document
   
-  Attributes
+  ###Attributes
     * href
 </details>
