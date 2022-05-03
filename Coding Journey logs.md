@@ -9,7 +9,7 @@
   development again even though i still don't know what programming field/career should i focus on.
 
   #### What i learned/review
-  ### HTML
+  
   ### HTML notes
   * ```<DOCTYPE html>```  = what version of HTML is being used.
   * ```<html></html>```   = root element of the document.
@@ -23,8 +23,7 @@
   * href
   * src  
   
-  ### CSS
   ### CSS notes
-  * Properties = what we want to change. **ex: color, font-size or weight**
-  * Values     = what we want that property to set to.  ex: ```font-size: 20px```
+  * Properties = what we want to change. Ex: **color, font-size or weight**
+  * Values     = what we want that property to set to.  Ex: ```font-size: 20px```
 </details>
